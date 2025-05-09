@@ -1,2 +1,13 @@
-# AutoFileSorter
-A simple desktop automation tool that automatically sorts files in a specified folder (like Downloads) based on file type (images, documents, videos, zips, etc.) using Python.
+# AutoFileSorter 🗂️
+
+A simple Python utility to auto-sort files in your Downloads (or any) folder into categorized subfolders like Images, Videos, Documents, etc.
+
+## Features
+- Automatically categorizes files by extension
+- Supports images, docs, videos, scripts, archives
+- Lightweight and easy to use
+
+## Usage
+```bash
+python main.py
+
