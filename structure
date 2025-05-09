@@ -1,0 +1,15 @@
+AutoFileSorter/
+│
+├── sorter/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── sorter.py
+│   └── utils.py
+│
+├── tests/
+│   ├── test_sorter.py
+│
+├── main.py
+├── README.md
+├── requirements.txt
+└── .gitignore
